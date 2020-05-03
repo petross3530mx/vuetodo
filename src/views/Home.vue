@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>fdsdf</h1>
+    <h1>Home.vue</h1>
   </div>
 </template>
